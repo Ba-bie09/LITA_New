@@ -1,6 +1,13 @@
 # LITA_New  
 
 ### Project Title: E-Commerce Sales Analysis
+[Project Overview](#project-overview)
+Data sources
+Tools used
+Data Cleaing and Preparation
+Exploration Data Analysis
+Data Analysis
+Data Visualization
 
 ### Project Overview
 ---
@@ -26,7 +33,7 @@ In the initial phase of Data cleaning and preparation, we perfomed the following
 2. Handling missing variables
 3. Data Cleaning and Formatting
 
-### Expositirt Data Analysis
+### Exploration Data Analysis
 ---
 EDA involved the exploration of data to answer some questions about the Data, such as;
 - What is the overral sales trend?
@@ -40,4 +47,14 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE  CONDITION = TRUE
 ```
+
+### Data Visualization
+
+😃
+
+🖱️
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1| Table 2| Table 3|
 
