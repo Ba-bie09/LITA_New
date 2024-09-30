@@ -2,18 +2,18 @@
 
 ### Project Title: E-Commerce Sales Analysis
 [Project Overview](#project-overview)
-Data sources
-Tools used
-Data Cleaing and Preparation
-Exploration Data Analysis
-Data Analysis
-Data Visualization
+[Data Sources](data-sources)
+[Tools Used](tools-used)
+[Data Cleaing and Preparation](data-cleaning-and-preparation)
+[Exploration Data Analysis](exploration-data-analysis)
+[Data Analysis](data-analysis)
+[Data Visualization](data-visualization)
 
 ### Project Overview
 ---
 This Data Analysis Project aims to generate insight into the main sales performance of the E-commerce project over the past one year.
 
-### Data sources
+### Data Sources
 ---
 The primary source od data used id Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or other repository site
 
