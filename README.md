@@ -1,2 +1,12 @@
 # LITA_New
-My portfolio on LITA
+
+### Project Title: E-Commerce Sales Analysis
+
+### Project Overview
+
+
+
+
+
+
+
