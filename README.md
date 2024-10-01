@@ -50,6 +50,10 @@ WHERE  CONDITION = TRUE
 
 ### Data Visualization
 
+![photo_2024-10-01_20-25-41](https://github.com/user-attachments/assets/e709eed2-129c-4f7c-877d-b2e929e9b278)
+
+
+
 😃
 
 🖱️
